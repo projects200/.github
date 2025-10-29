@@ -1,5 +1,5 @@
 
-## <운다방 아이콘 추가> 운다방 프로젝트
+## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/d8e6396f-614e-4263-b6df-909140e18e2d" /> 운다방 
 
 ### 프로젝트 소개
 - 근처에 거주하는 운동메이트 찾기 서비스 입니다.
@@ -21,13 +21,13 @@
       <td align="center"><img width="100" alt="image" src="<!--이 부분에 개인 사진을 추가해 주세요-->"></td>
       <td align="center"><img width="100" alt="image" src="<!--이 부분에 개인 사진을 추가해 주세요-->"></td>
       <td align="center"><img width="100" alt="image" src="<!--이 부분에 개인 사진을 추가해 주세요-->"></td>
-      <td align="center"><img width="100" alt="image" src="<!--이 부분에 개인 사진을 추가해 주세요-->"></td>
+      <td align="center"><img width="100" alt="image" src="https://github.com/user-attachments/assets/741d8ebe-ac0b-4039-a9e1-b16754b726c8"></td>
     </tr>
     <tr>
-      <td width="150"><a href="<!--개인 github 주소를 넣어주세요-->"><!--@표시될 이름으로 적어주세요--></a></td>
-      <td width="150"><a href="<!--개인 github 주소를 넣어주세요-->"><!--@표시될 이름으로 적어주세요--></a></td>
-      <td width="150"><a href="<!--개인 github 주소를 넣어주세요-->"><!--@표시될 이름으로 적어주세요--></a></td>
-      <td width="150"><a href="https://github.com/joohyun1996">@JooH</a></td>
+      <td align="center" width="150"><a href="<!--개인 github 주소를 넣어주세요-->"><!--@표시될 이름으로 적어주세요--></a></td>
+      <td align="center" width="150"><a href="<!--개인 github 주소를 넣어주세요-->"><!--@표시될 이름으로 적어주세요--></a></td>
+      <td align="center" width="150"><a href="<!--개인 github 주소를 넣어주세요-->"><!--@표시될 이름으로 적어주세요--></a></td>
+      <td align="center" width="150"><a href="https://github.com/joohyun1996">@JooH</a></td>
     </tr>  
   </tbody>
 </table>
