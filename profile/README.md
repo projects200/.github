@@ -18,7 +18,7 @@
       <th align="center" width='14%'>이주현</th>
     </tr>
     <tr>
-      <td align="center"><img width="100" alt="image" src="<!--이 부분에 개인 사진을 추가해 주세요-->"></td>
+      <td align="center"><img width="100" alt="image" src="https://github.com/seung-gyu-kim"></td>
       <td align="center"><img width="100" alt="image" src="https://github.com/edv-Shin.png"></td>
       <td align="center"><img width="100" alt="image" src="https://github.com/ldg-96.png"></td>
       <td align="center"><img width="100" alt="image" src="https://github.com/user-attachments/assets/741d8ebe-ac0b-4039-a9e1-b16754b726c8"></td>
